@@ -1,5 +1,5 @@
 package com.java8;
-
+//`<div>${faker.commerce.productName()}</div>`
 interface Test1{
 	public default void display() {
 		System.out.println("calling from Test1 interface");
